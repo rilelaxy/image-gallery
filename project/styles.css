@@ -44,8 +44,8 @@ figcaption {
 }
 
 hr {
-    border: 1px solid #241e0c; /* Add a border to horizontal rules */
-    margin: 20px 0; /* Adjust margin for spacing */
+    border: 1px solid #241e0c; 
+    margin: 20px 0; 
 }
 
 footer {
