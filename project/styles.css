@@ -1,0 +1,55 @@
+html {
+    background-color: #e9e5da;
+    color: #241e0c;
+    font-family: Baskerville, "Baskerville Old Face", "Hoefler Text", Garamond, "Times New Roman", serif;
+    font-size: 18px;
+    line-height: 1.6;
+}
+
+a {
+    color: #79725d;
+}
+
+main {
+    max-width: 1900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+
+figure {
+    width: 25%;
+    text-align: left;
+    border:solid 5px #241e0c;
+    display:inline-block;
+    margin:5% auto;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    padding:1em;
+    line-height:1.5em;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+}
+
+figcaption {
+    margin-top: 10px;
+    font-style: italic;
+}
+
+hr {
+    border: 1px solid #241e0c; /* Add a border to horizontal rules */
+    margin: 20px 0; /* Adjust margin for spacing */
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+}
+
